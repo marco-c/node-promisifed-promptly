@@ -1,0 +1,30 @@
+{
+  "name": "promisified-promptly",
+  "version": "1.0.0",
+  "description": "Promisified version of promptly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-c/node-promisified-promptly.git"
+  },
+  "keywords": [
+    "prompt",
+    "choose",
+    "choice",
+    "cli",
+    "command",
+    "line"
+  ],
+  "author": "Marco Castelluccio",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/marco-c/node-promisified-promptly/issues"
+  },
+  "homepage": "https://github.com/marco-c/node-promisified-promptly#readme",
+  "dependencies": {
+    "promptly": "^0.2.1"
+  }
+}
