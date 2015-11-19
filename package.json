@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marco-c/promisified-promptly.git"
+    "url": "git+https://github.com/marco-c/node-promisifed-promptly.git"
   },
   "keywords": [
     "prompt",
