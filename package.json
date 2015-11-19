@@ -1,6 +1,6 @@
 {
   "name": "promisified-promptly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Promisified version of promptly",
   "main": "index.js",
   "scripts": {
